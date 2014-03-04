@@ -1,4 +1,6 @@
-package com.example.campussherpa;
+package com.example.campussherpa.activities;
+
+import com.example.campussherpa.R;
 
 import android.os.Bundle;
 import android.app.Activity;
